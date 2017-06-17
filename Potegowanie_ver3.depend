@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1494611658 source:c:\users\marek\documents\c++\potegowanie_ver3\main.cpp
+	<iostream>
+	<ctime>
+
+1494613138 source:c:\users\marek\documents\c++\spoj_potegowanie\main.cpp
+	<iostream>
+	<ctime>
+
